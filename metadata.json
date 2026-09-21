@@ -1,0 +1,6 @@
+{
+  "name": "Agentic IT Software Deployer",
+  "description": "Autonomous enterprise IT software installation platform powered by LangGraph multi-agent orchestration, Microsoft Teams integration, RAG policy retrieval, guardrailed tool calling, and multi-level evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
